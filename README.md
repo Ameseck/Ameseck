@@ -2,14 +2,12 @@
 
 I'm April, and I am from upstate NY.
 
-I am an online student at Champlain College earning my bachelor's in software development.
+## 💡 About Me
+I am a Software Development student with experience in Python, C++, and Java.
+
+I am interested in building real-world applications and continuing to grow my programming skills.
 
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on.
-
-Tools & Tech
-
-Python, JavaScript, Bootstrap, TypeScript, 
-Figma, and I am currently taking classes on JavaScript and Blockchain.
 
 I graduate may 1,2027
 
@@ -24,3 +22,34 @@ A Bit About Me
 
 🧱 I like building things that are simple, useful, and easy to understand
 
+# Software Development Coursework 
+
+## 🎓 Champlain College Coursework
+
+### Programming & Development
+- SDEV-250 – Java Programming I (In Progress)
+- SDEV-240 – C++ Programming I 
+- SDEV-340 – C++ Programming II 
+- SDEV-345 – Data Structures & Algorithms 
+
+### Web & Software
+- WEBD-125 – Web Page Development I (HTML) 
+- WEBD-370 – Usability in Web/Software Design 
+
+### Databases & Systems
+- CMIT-200 – Relational Database Design & SQL 
+- CMIT-310 – Enterprise Database Systems 
+- SDEV-310 – Computer Architecture & Assembly 
+
+### Security & Cloud
+- CYBR-210 – Foundations of Cybersecurity 
+- CMIT-280 – Cloud Computing Security 
+
+### Math & Theory
+- MATH-210 – Calculus I 
+- MATH-270 – Discrete Mathematics 
+
+
+## 🚀 Current Work
+- Java Programming (in progress)
+- Building small projects to expand portfolio
