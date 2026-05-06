@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm April, I am from upstate NY.
 
-<!--
-**Ameseck/Ameseck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an online student at Champlain College earning my bachelor's in software development.
 
-Here are some ideas to get you started:
+This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Tech
+Python, JavaScript, Bootstrap, TypeScript, 
+Figma, and I am currently taking classes on JavaScript and Blockchain.
+I graduate may 1,2027
+
+A Bit About Me
+🐹 I have a hamster
+🍵 I live off of caffeine
+📺 If I am not doing school, I am watching YouTube or a kdrama 
+🧱 I like building things that are simple, useful, and easy to understand
