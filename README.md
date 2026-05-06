@@ -9,10 +9,10 @@ I am interested in building real-world applications and continuing to grow my pr
 
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on.
 
-I graduate may 1,2027
+### I graduate may 1,2027
 
 
-A Bit About Me
+### A Bit About Me
 
 🐹 I have a hamster and 🐟 9 tetra fish and 🐌 1 snail 
 
@@ -22,12 +22,12 @@ A Bit About Me
 
 🧱 I like building things that are simple, useful, and easy to understand
 
-# Software Development Coursework 
+## Software Development Coursework 
 
 ## 🎓 Champlain College Coursework
 
 ### Programming & Development
-- SDEV-250 – Java Programming I (In Progress)
+- SDEV-250 – Java Programming I 
 - SDEV-240 – C++ Programming I 
 - SDEV-340 – C++ Programming II 
 - SDEV-345 – Data Structures & Algorithms 
@@ -52,4 +52,5 @@ A Bit About Me
 
 ## 🚀 Current Work
 - Java Programming (in progress)
+- Intro to Blockchain
 - Building small projects to expand portfolio
