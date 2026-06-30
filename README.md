@@ -9,12 +9,12 @@ I am interested in building real-world applications and continuing to grow my pr
 
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on.
 
-### I graduate may 1,2027
+### I graduate May 1, 2027
 
 
 ### A Bit About Me
 
-🐹 I have a hamster and 🐟 9 tetra fish and 🐌 1 snail 
+🐹 I have a hamster and 🐟 9 fish 
 
 🍵 I live off of caffeine and hope that my code runs the first time
 
@@ -30,7 +30,9 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 - SDEV-250 – Java Programming I 
 - SDEV-240 – C++ Programming I 
 - SDEV-340 – C++ Programming II 
-- SDEV-345 – Data Structures & Algorithms 
+- SDEV-345 – Data Structures & Algorithms
+-  - Java Programming 
+- Intro to Blockchain
 
 ### Web & Software
 - WEBD-125 – Web Page Development I (HTML) 
@@ -51,6 +53,4 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 
 
 ## 🚀 Current Work
-- Java Programming (in progress)
-- Intro to Blockchain
 - Building small projects to expand portfolio
